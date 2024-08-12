@@ -1,21 +1,26 @@
-# Gemini-API-Developer-Competition-Jourmini
+# Gemini-API-Developer-Competition
 
-<div style="text-align: center;">
-  <a href="https://gemini-competition-jourmini-production.up.railway.app/plan">
-    <img src="https://github.com/yuting1214/Gemini-API-Developer-Competition-Jourmini/blob/main/materials/jourmini_logo.png" alt="Jourmini Logo" width="400"/>
+<p align="center">
+  <a href="https://gemini-competition-jourmini-production.up.railway.app">
+    <img src="https://github.com/yuting1214/Gemini-API-Developer-Competition-Jourmini/blob/main/materials/jourmini_logo.png" height="256">
   </a>
-</div>
+  <h1 align="center">
+    <a href="https://gemini-competition-jourmini-production.up.railway.app">Jourmini</a>
+  </h1>
+</p>
 
 **Jourmini** is an AI-powered platform that revolutionizes how you plan, manage, and envision your travel adventures. Powered by Google's Gemini AI, Jourmini integrates cutting-edge technology with the most reliable travel information to provide a seamless, personalized, and eco-friendly travel planning experience.
 
 ## Table of Contents
-
+- [Quick-demo](#quick-demo)
 - [Features](#features)
-- [Usage](#usage)
 - [Project Repositories](#project-repositories)
 - [Acknowledgements](#acknowledgements)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Quick-demo
+![Jourmini-Demo](https://github.com/yuting1214/Gemini-API-Developer-Competition-Jourmini/blob/main/materials/Jourmini-demo.gif)
 
 ## Features
 
@@ -49,7 +54,7 @@ Jourmini offers a unique blend of advanced features that set it apart from other
 
 Here are the repositories for different platforms where Jourmini is available:
 
-- **Web App**: [Link]([https://github.com/timmy0123/Gemini-API-Developer-Competition-Jourmini-Web](https://github.com/timmy0123/Gemini-Competition-Jourmini-Web))
+- **Web App**: [Link](https://github.com/timmy0123/Gemini-Competition-Jourmini-Web)
 - **Android App**: [Link](https://github.com/Mett-Barr/Gemini-API-Developer-Competition-Jourmini-Android)
 - **iOS App**: [Link](https://github.com/haifengkao/Gemini-API-Developer-Competition-Jourmini-IOS)
 
@@ -77,8 +82,8 @@ We welcome contributions from the community to make Jourmini even better. If you
 2. **Create** a new branch for your feature or bugfix.
 3. **Submit** a pull request with a detailed description of your changes.
 
-For more details, check out our [Contributing Guidelines](link-to-your-contributing-guidelines) <!-- Replace with the actual link -->
+For more details, check out our [Contributing Guidelines](link-to-your-contributing-guidelines)
 
 ## License
 
-Jourmini is licensed under the [MIT License](link-to-your-license) <!-- Replace with the actual link -->
+Jourmini is licensed under the [MIT License](https://github.com/yuting1214/Gemini-API-Developer-Competition-Jourmini/blob/main/LICENSE)
